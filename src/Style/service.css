@@ -1,0 +1,23 @@
+.services{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 5vmax 0 0 0;
+    background-color: white;
+    padding: 1vmax;
+    padding-bottom: 0;
+    margin-left: 13vmax;
+}
+.service-item{
+    padding: 10px 20px;
+    background-color: rgb(217, 225, 225);
+    margin: 2px;
+    height: 20vh;
+    width: 35vh;
+    cursor: pointer;
+   
+}
+.service-item>span{
+
+    padding: 20px 30px;
+    font-size: xx-large;
+}
