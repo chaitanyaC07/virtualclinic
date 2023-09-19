@@ -17,37 +17,44 @@ const Services = () => {
           <span>
             <FontAwesomeIcon icon={faHeartPulse} />
           </span>
-          <p>Cardiology</p>
+
+          <h3>Cardiology</h3>
+          <p>Diagnosing and treating diseases of the heart</p>
         </div>
         <div className="service-item">
           <span>
             <FontAwesomeIcon icon={faEye} />
           </span>
-          <p>Ophthalmology</p>
+          <h3>Ophthalmology</h3>
+          <p>Diagnosis and treatment of disorders </p>
         </div>
         <div className="service-item">
           <span>
             <FontAwesomeIcon icon={faPills} />
           </span>
-          <p>General Medicine</p>
+          <h3>General Medicine</h3>
+          <p>Diagnosis, treatment and management of general</p>
         </div>
         <div className="service-item">
           <span>
             <FontAwesomeIcon icon={faBrain} />
           </span>
-          <p>Psychiatry</p>
+          <h3>Psychiatry</h3>
+          <p>Diagnosis and treatment of mental illness</p>
         </div>
         <div className="service-item">
           <span>
             <FontAwesomeIcon icon={faBed} />
           </span>
-          <p>General Surgery</p>
+          <h3>General Surgery</h3>
+          <p>Diagnosis and preoperative, operative</p>
         </div>
         <div className="service-item">
           <span>
             <FontAwesomeIcon icon={faEarDeaf} />
           </span>
-          <p>ENT</p>
+          <h3>ENT</h3>
+          <p>Diagnosis and treatment of diseases of ear, nose and throat.</p>
         </div>
       </div>
     </div>
